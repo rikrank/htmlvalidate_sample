@@ -1,0 +1,12 @@
+{
+  "name": "htmlvalidate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "validate": "node_modules/.bin/html-validate '**/*.html'"
+  },
+  "devDependencies": {
+    "html-validate": "^6.7.1"
+  }
+}
